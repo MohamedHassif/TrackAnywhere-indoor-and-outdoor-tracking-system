@@ -1,0 +1,6 @@
+usescases: School,college,old age home,forest(tracking),sea ,tourist place, patients,government staffs
+
+beacons-- mainly used in Hospitals
+
+
+problem--why we need to track without cell
